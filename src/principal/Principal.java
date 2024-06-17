@@ -17,4 +17,4 @@ public class Principal {
         // almacenados
         Apoyo.mostrar(lotes);
     }
-}
+}   
